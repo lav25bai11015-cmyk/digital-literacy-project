@@ -2,7 +2,7 @@
 
 It includes both Part A and Part B of task 4
 
-Part A: It shows the proper way for writting emails, professionally with two exemplary emails.
+Part A: It shows the proper way for writting emails, professionally with two exemplary mails.
 
   1. An email to professor for extending the due date for an assignment submission.
 
