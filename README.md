@@ -6,7 +6,7 @@ Student details:-
 
 Name-Lav Singh Gautam
 
-Registration number-25BAI1105
+Registration number-25BAI11015
 
 Branch-B.Tech, CSE AIML
 
